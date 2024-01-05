@@ -29,5 +29,7 @@ The example game loop demonstrates how these functions work together to enable g
 
 
 <img width="779" alt="image" src="https://github.com/Hacktus/Tic-Tac-Toe/assets/126244304/0937af8e-0a8b-4ddf-82d6-408906470888">
+
+
 <img width="205" alt="image" src="https://github.com/Hacktus/Tic-Tac-Toe/assets/126244304/a60dc202-83eb-40e3-ab28-733b87c129fb">
 
