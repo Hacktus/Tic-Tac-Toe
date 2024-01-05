@@ -1,6 +1,11 @@
 ### Graph Representation
 In this project, a tree diagram is used to represent the decision-making process in the Tic-Tac-Toe game. Each node in the tree corresponds to a specific state of the game board, and the edges represent the transition between these states based on player moves. The Minimax algorithm navigates through this tree to determine the best move at each step. The implementation of Alpha-Beta Pruning is highlighted in the tree to illustrate the reduction in the number of nodes evaluated, optimizing the decision-making process.
 
+
+<img width="1469" alt="ScreenShot2021-07-15at12 39 39 (1)" src="https://github.com/Hacktus/Tic-Tac-Toe/assets/126244304/454d7d2b-f04d-4cb9-b2c8-5710504574aa">
+
+
+
 ### Real-World Problem Definition
 The project focuses on developing an AI for the game of Tic-Tac-Toe, serving as a microcosm for decision-making in constrained environments. The primary challenge addressed is creating an AI that can make optimal moves against a human opponent in this simplified model. The Tic-Tac-Toe scenario reflects broader applications in areas where efficient and strategic decision-making is essential, such as in automated planning, resource allocation, and other fields requiring complex decision-making under constraints.
 
